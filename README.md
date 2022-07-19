@@ -1,7 +1,9 @@
 # GreenBall
 2D Oyun
 
-Amaç, yeşil topları vurmak.
+Amaç, yeşil topları vurmak. Ekrana her tıklandığında ateş edilir. Her isabet bir puan değerindedir.
+
+Canvas kullanılarak geliştirilmiştir.
 
 https://user-images.githubusercontent.com/62982765/179797369-4c31f9d2-e991-4fba-8790-3e552ff57409.mp4
 
