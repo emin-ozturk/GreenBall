@@ -1,10 +1,15 @@
 # GreenBall
-2D Game
+2D Oyun
 
-Points are earned by hitting the green ball. The target changes with each hit. The goal is to hit the most balls.
+Amaç, yeşil topları vurmak.
 
-![unnamed](https://user-images.githubusercontent.com/62982765/179773425-dd45516b-e6a2-4984-82f3-38b9097974d0.png)
-![unnamed1](https://user-images.githubusercontent.com/62982765/179773427-543796c3-814e-4223-b008-844299ad8a01.png)
-![unname2](https://user-images.githubusercontent.com/62982765/179773418-563d450d-78f7-4d0d-8d7c-6a9dac8af3fe.png)
+https://user-images.githubusercontent.com/62982765/179797369-4c31f9d2-e991-4fba-8790-3e552ff57409.mp4
+
+![photo1632846031](https://user-images.githubusercontent.com/62982765/179797717-23a00509-10a6-401f-85b6-ca56fe33f25c.jpeg)
+![photo1632846039](https://user-images.githubusercontent.com/62982765/179797356-c2048423-3e58-40e5-9a2e-dd84be571382.jpeg)
+![photo1632846040](https://user-images.githubusercontent.com/62982765/179797364-3ecb6e7c-5355-49b7-873f-92e45304493f.jpeg)
+![photo1632846033](https://user-images.githubusercontent.com/62982765/179797349-b83f35d1-81f3-4631-999c-757e1f42782c.jpeg)
 
 Google Play: https://play.google.com/store/apps/details?id=com.emin.greenball
+
+
