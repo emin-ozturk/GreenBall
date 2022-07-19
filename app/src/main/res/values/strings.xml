@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Green Ball</string>
+    <!--test ads id-->
+    <!-- <string name="banner_start_game">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_new_game">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_new_game">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="reward">ca-app-pub-3940256099942544/5224354917</string>-->
+    <!--ads id-->
+    <string name="banner_start_game">ca-app-pub-9775596095083801/4700081814</string>
+    <string name="banner_new_game">ca-app-pub-9775596095083801/9186121736</string>
+    <string name="interstitial_new_game">ca-app-pub-9775596095083801/1882346784</string>
+    <string name="reward">ca-app-pub-9775596095083801/2399036311</string>
+ </resources>
